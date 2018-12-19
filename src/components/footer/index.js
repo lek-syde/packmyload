@@ -17,6 +17,9 @@ class Footer extends Component {
                   <div className="col-md-4">
                      <ul>
                         <li>
+                           <a href="#">Blog</a>
+                        </li>
+                        <li>
                            <a href="#">Facebook</a>
                         </li>
                         <li>

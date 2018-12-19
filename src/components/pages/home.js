@@ -13,7 +13,7 @@ class Homepage extends Component {
                      <div className="app-hero">
                         <div className="intro-block">
                            <h1>
-                              Move
+                              Move{" "}
                               <span style={{ color: "#5D93DF" }}>
                                  anything!
                               </span>{" "}
